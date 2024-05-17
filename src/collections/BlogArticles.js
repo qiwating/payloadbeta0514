@@ -1,7 +1,11 @@
+import { type } from 'os'
+
+
+
 export const BlogArticles = {
     slug:'blogArticles',
 
-    fields:[
+    field:[
         {
             name:'title',
             label:'Title',
