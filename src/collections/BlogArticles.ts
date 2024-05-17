@@ -1,4 +1,4 @@
-import { type } from 'os'
+import type { CollectionConfig } from 'payload/types'
 
 
 
