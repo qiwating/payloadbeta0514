@@ -5,7 +5,7 @@ import type { CollectionConfig } from 'payload/types'
 export const BlogArticles = {
     slug:'blogArticles',
 
-    field:[
+    fields:[
         {
             name:'title',
             label:'Title',

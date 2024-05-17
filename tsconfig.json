@@ -37,7 +37,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "src/collections/BlogArticles.js"  ],
+, "src/collections/BlogArticles.ts"  ],
   "exclude": [
     "node_modules"
   ]
