@@ -2,7 +2,7 @@ import type { CollectionConfig } from 'payload/types'
 
 
 
-export const BlogArticles = {
+export const BlogArticles: CollectionConfig = {
     slug:'blogArticles',
 
     fields:[

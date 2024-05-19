@@ -8,7 +8,7 @@ import { fileURLToPath } from 'url'
 
 import { Users } from './collections/Users'
 import { BlogArticles } from './collections/BlogArticles'
-const BlogArticles = require('./collections/BlogArticles'); // Adjust the import for JavaScript file
+
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
